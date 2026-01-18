@@ -22,9 +22,13 @@
 
 ### 作業系統
 Windows/EXE
+
 MacOSX/APP
+
 Android/APK
+
 iOS/IPA
+
 HTML 5 for Web Browsers
 
 
