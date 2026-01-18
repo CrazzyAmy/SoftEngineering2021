@@ -34,9 +34,9 @@ HTML 5 for Web Browsers
 
 
 ### 主線架構圖
-![]()
-![]()
-![]()
+![](https://github.com/CrazzyAmy/SoftEngineering2021/blob/3a563d62654f274efdde977e5541258c49e83c08/story_I.png)
+![](https://github.com/CrazzyAmy/SoftEngineering2021/blob/3a563d62654f274efdde977e5541258c49e83c08/story_II.png)
+![](https://github.com/CrazzyAmy/SoftEngineering2021/blob/3a563d62654f274efdde977e5541258c49e83c08/story_III.png)
 
 ### 使用者介面
 #### 抬頭顯示器(HUD)
